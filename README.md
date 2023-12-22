@@ -1,11 +1,11 @@
 
-Next.js 14 Tutorial
+# Next.js 14 Tutorial
 Welcome to the Next.js 14 Tutorial! 🚀
 
-Description
+## Description
 This tutorial is designed to guide you through building a Next.js 14 application. Learn how to create dynamic and performant web applications using the latest features of Next.js.
 
-Getting Started
+## Getting Started
 Clone the repository:
 
 ``` bash
@@ -23,13 +23,13 @@ npm run dev
 ```
 Open http://localhost:3000 in your browser to view the app.
 
-Accessing the App
+## Accessing the App
 To access certain features of the app, you may need to log in. Here are the login details:
 
-Username: user@nextmail.com
-Password: 123456
+<p><strong>Username:</strong> user@nextmail.com</p>
+<p><strong>Password:</strong> 123456</p>
 
-Tutorial Chapter
+## Tutorial Chapter
 <ol>
   <li>Getting Started</li>
   <li>CSS Styling</li>
@@ -49,8 +49,8 @@ Tutorial Chapter
   <li>Adding Metadata</li>
 </ol>
 
-Additional Notes
+## Additional Notes
 This tutorial assumes basic knowledge of React, JavaScript, TypeScript and web development concepts.
 Make sure you have Node.js and npm installed on your machine.
 
-Happy coding! 🚀
+#### Happy coding! 🚀
