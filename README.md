@@ -8,40 +8,49 @@ This tutorial is designed to guide you through building a Next.js 14 application
 Getting Started
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/nextjs-tutorial.git
+``` bash
+git clone https://github.com/OscarMeneses99/tutorial-nextjs.git
+```
 Install dependencies:
 
-bash
-Copy code
-cd nextjs-tutorial
+``` bash
+cd nextjs-dashboard
 npm install
+```
 Run the development server:
-
-bash
-Copy code
+``` bash
 npm run dev
+```
 Open http://localhost:3000 in your browser to view the app.
 
 Accessing the App
 To access certain features of the app, you may need to log in. Here are the login details:
 
-Username: user@example.com
-Password: demo-password
-Tutorial Sections
-Setting up Next.js
-Creating Pages and Routes
-Fetching Data with getStaticProps and getServerSideProps
-Styling with CSS Modules and Tailwind CSS
-Adding TypeScript Support
-Integrating API Routes
-Dynamic Routing and Linking
-Deploying Your Next.js App
+Username: user@nextmail.com
+Password: 123456
+
+Tutorial Chapter
+<ol>
+  <li>Getting Started</li>
+  <li>CSS Styling</li>
+  <li>Optimizing Fonts and Images</li>
+  <li>Creating Layouts and Pages</li>
+  <li>Navigating Between Pages</li>
+  <li>Setting Up Your Database</li>
+  <li>Fetching Data</li>
+  <li>Static and Dynamic Rendering</li>
+  <li>Streaming</li>
+  <li>Partial Prerendering (Optional)</li>
+  <li>Adding Search and Pagination</li>
+  <li>Mutating Data</li>
+  <li>Handling Errors</li>
+  <li>Improving Accessibility</li>
+  <li>Adding Authentication</li>
+  <li>Adding Metadata</li>
+</ol>
+
 Additional Notes
-This tutorial assumes basic knowledge of React and web development concepts.
+This tutorial assumes basic knowledge of React, JavaScript, TypeScript and web development concepts.
 Make sure you have Node.js and npm installed on your machine.
-Feedback and Contributions
-If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 Happy coding! 🚀
