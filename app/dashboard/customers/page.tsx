@@ -15,7 +15,6 @@ export default async function Page({
   }) {
     const query = searchParams?.query || '';
     const customers = await fetchFilteredCustomers(query);
-    console.log(customers);
     return (
         <CustomersTable customers={customers} />
     )
